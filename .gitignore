@@ -1,0 +1,17 @@
+target
+.cpcache
+.project
+target
+.cpcache
+.idea
+*.iml
+.nrepl-port
+classes
+reports
+lambda_function
+pom.properties
+pom.xml
+.clj-kondo/**
+.lsp/**
+.clj-kondo/**
+.portal/**
